@@ -1,0 +1,32 @@
+{
+  "bot": {
+    "token": "BOT_TOKEN_HERE",
+    "status": "BOT_CUSTOM_STATUS_HERE",
+    "botVoiceChannelID": "BOT_JOIN_CHANNEL_ID_HERE",
+    "prefix": "BOT_DEFAULT_PREFIX_HERE",
+    "otherPrefix": ["BOT_PREFIX_1", "BOT_PREFIX_2"],
+    "owners": ["BOT_OWNER_ID(s)"]
+  },
+
+  "colors": ["b0e0e6", "c0c0c0", "800000", "ffb6c1", "f0fff0", "ffebcd"],
+
+  "mysql": {
+    "database": "MYSQL_DATABASE",
+    "host": "MYSQL_HOST",
+    "user": "MYSQL_USER",
+    "password": "MYSQL_PASS"
+  },
+
+  "registerSettings": {
+    "serverId": "SERVER_ID",
+    "registerChannel": "REGISTERY_CHANNEL",
+    "tag": "YOUR_TAG",
+    "notTag": "YOUR_DEFAULT_tAG",
+    "registerRole": "REGISTERER_ROLE_ID",
+    "welcomeChannel": "WELCOME_CHANNEL_ID",
+    "rulesChannel": "RULES_CHANNEL_ID",
+    "manRoles": ["MAN_ROLES_ID(s)"],
+    "womanRoles": ["WOMAN_ROLES_ID(s)"],
+    "boosterRole": "BOOSTER_ROLES_ID"
+  }
+}

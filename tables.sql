@@ -1,0 +1,17 @@
+CREATE DATABASE Register;
+
+CREATE TABLE Names (
+    pid INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    memberid TEXT CHARACTER SET utf8 NOT NULL,
+    membername TEXT CHARACTER SET utf8 NOT NULL,
+    sex TINYTEXT CHARACTER SET utf8 NOT NULL,
+    registerer TEXT CHARACTER SET utf8 NOT NULL
+);
+
+CREATE TABLE Staffs (
+    pid INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    staffid TEXT CHARACTER SET utf8 NOT NULL,
+    registerycount INT NOT NULL,
+    mancount INT NOT NULL,
+    womancount INT NOT NULL
+);
