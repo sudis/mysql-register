@@ -1,0 +1,28 @@
+{
+  "name": "netbosaltyapi",
+  "version": "1.0.0",
+  "description": "Sude ALACATI",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codedipper/random-code": "^2.1.2",
+    "@top-gg/sdk": "^3.0.7",
+    "chalk": "^4.1.0",
+    "cli-color": "^2.0.0",
+    "collection-map-js": "^1.0.1",
+    "common-tags": "^1.8.0",
+    "discord-utilities": "^1.0.0",
+    "discord.js": "^12.5.1",
+    "humanize-duration": "^3.25.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "mysql2": "^2.2.5",
+    "node-superfetch": "^0.1.11"
+  }
+}
