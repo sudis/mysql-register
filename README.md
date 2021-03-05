@@ -1,3 +1,5 @@
+![Serendia Squad](https://cdn.discordapp.com/attachments/691691230106615901/776849806567538748/standard_11.gif)
+
 # MySQL - Register Bot
 > Hello! I decided to make a bot. This bot is nothing complicated. The reason for this is the first time I am building a bot using MySQL. I decided to migrate all my bots and infrastructure to MySQL. This is because NoSQL can no longer meet the needs and the majority of them use NoSQL. MySQL, where we can even sort without pulling the data, is easier and more fun than other NoSQLs. **Come on, start MySQL today**.
 
