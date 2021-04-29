@@ -84,7 +84,7 @@ Tada! You are now ready to start. Since the bot's main file is contained in SRC,
 nodemon main
 ```
 
-Your boat is ready now! Remember, you may get a lot of errors in this project, but these are quite normal. Please come to our server calmly and ask for help. With love!
+Your bot is ready now! Remember, you may get a lot of errors in this project, but these are quite normal. Please come to our server calmly and ask for help. With love!
 
 ## Serendia Squad
 > You are invited to our server where you can get all kinds of help and meet various friends. Do not forget to join our server with the help of the link below.
